@@ -21,6 +21,7 @@ This uses OpenAI's GPT LLM to write git commit summaries
         
 ## Setup
 
+      pip install gpt-ghostwriter
       export OPENAI_API_KEY=xxxxxxxxxxxxxxxxxx
 
 ### Usage        
@@ -29,7 +30,7 @@ This uses OpenAI's GPT LLM to write git commit summaries
 
 ### Example
 
-      $ echo "test" > test.txt"
+      $ echo "test" > test.txt
       $ git add test.txt
       $ ghostwriter
       "Adds a test.txt file to repo"
