@@ -1,8 +1,8 @@
 ================
-gpt-auto-message
+gpt-ghostwriter
 ================
 
-This is the documentation of **gpt-auto-message**.
+This is the documentation of **gpt-ghostwriter**.
 
 .. note::
 

@@ -8,8 +8,8 @@ else:
 
 try:
     # Change here if project is renamed and does not equal the package name
-    dist_name = "gpt-auto-message"
-    __version__ = version(dist_name)
+    dist_name = "gpt-ghostwriter"
+    __version__ = '1.0.1'
 except PackageNotFoundError:  # pragma: no cover
     __version__ = "unknown"
 finally:
